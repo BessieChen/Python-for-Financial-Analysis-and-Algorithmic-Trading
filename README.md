@@ -44,4 +44,4 @@ Also this course covers many classic financial analytic methods:
 15.Efficient Market Hypothesis
 
 And finally, it teaches how to implement the above algorithms and fit them into Quantopian.
-Algorithmic Trading with Quantopian
+
